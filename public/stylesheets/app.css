@@ -1,0 +1,21 @@
+@import url(' https://fonts.google.com/?selection.family=Roboto');
+
+header {
+    background-color: #244751;
+    color: #E8FDFF;
+    font-family: Roboto;
+}
+
+
+.post {
+    margin-bottom: 48px;
+}
+
+.post .user-info img {
+    border-radius: 50%;
+}
+
+a:hover {
+    cursor: pointer;
+    
+}
